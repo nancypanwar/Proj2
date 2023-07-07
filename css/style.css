@@ -71,10 +71,7 @@ section{
     height: 700px;
 
     margin: 10px auto;
-
-    background-image: url(/images/background\ real.jpg);
-    background-repeat: no-repeat;
-
+     margin-bottom: 2rem;
     /* margin-top: 30px; */
     /* border: 1px solid black; */
 
@@ -226,8 +223,8 @@ h3{
 
     padding: 8px;
     width: 20%;
-    border: #2196F3;
-    background-color: #2196F3;
+    border: #0252A2;
+    background-color: #0252A2;
     border-radius: 5px;
     margin-left: 300px;
 
@@ -300,6 +297,11 @@ p{
     margin-top: 110px;
     border: 1px solid black;
 
+}
+
+.image1{
+    position: absolute;
+    z-index: -1;
 }
 
 /* ! Form */
